@@ -1,0 +1,401 @@
+﻿Year,Province,District,Medium,Gender,Admissions
+2022,Western,Colombo,Sinhala,Male,9588
+2022,Western,Colombo,Sinhala,Female,9133
+2022,Western,Colombo,Tamil,Male,1127
+2022,Western,Colombo,Tamil,Female,1274
+2022,Western,Gampaha,Sinhala,Male,10733
+2022,Western,Gampaha,Sinhala,Female,10748
+2022,Western,Gampaha,Tamil,Male,737
+2022,Western,Gampaha,Tamil,Female,691
+2022,Western,Kalutara,Sinhala,Male,6794
+2022,Western,Kalutara,Sinhala,Female,6547
+2022,Western,Kalutara,Tamil,Male,1152
+2022,Western,Kalutara,Tamil,Female,1243
+2022,Central,Kandy,Sinhala,Male,7334
+2022,Central,Kandy,Sinhala,Female,6934
+2022,Central,Kandy,Tamil,Male,2564
+2022,Central,Kandy,Tamil,Female,2514
+2022,Central,Matale,Sinhala,Male,3230
+2022,Central,Matale,Sinhala,Female,3185
+2022,Central,Matale,Tamil,Male,695
+2022,Central,Matale,Tamil,Female,717
+2022,Central,Nuwaraeliya,Sinhala,Male,2214
+2022,Central,Nuwaraeliya,Sinhala,Female,2085
+2022,Central,Nuwaraeliya,Tamil,Male,3483
+2022,Central,Nuwaraeliya,Tamil,Female,3390
+2022,Southern,Galle,Sinhala,Male,7592
+2022,Southern,Galle,Sinhala,Female,7189
+2022,Southern,Galle,Tamil,Male,172
+2022,Southern,Galle,Tamil,Female,170
+2022,Southern,Matara,Sinhala,Male,5744
+2022,Southern,Matara,Sinhala,Female,5271
+2022,Southern,Matara,Tamil,Male,328
+2022,Southern,Matara,Tamil,Female,257
+2022,Southern,Hambantota,Sinhala,Male,5654
+2022,Southern,Hambantota,Sinhala,Female,5321
+2022,Southern,Hambantota,Tamil,Male,94
+2022,Southern,Hambantota,Tamil,Female,113
+2022,Northern,Jaffna,Sinhala,Male,0
+2022,Northern,Jaffna,Sinhala,Female,0
+2022,Northern,Jaffna,Tamil,Male,3503
+2022,Northern,Jaffna,Tamil,Female,3443
+2022,Northern,Mannar,Sinhala,Male,0
+2022,Northern,Mannar,Sinhala,Female,1
+2022,Northern,Mannar,Tamil,Male,1012
+2022,Northern,Mannar,Tamil,Female,908
+2022,Northern,Vavuniya,Sinhala,Male,169
+2022,Northern,Vavuniya,Sinhala,Female,185
+2022,Northern,Vavuniya,Tamil,Male,1239
+2022,Northern,Vavuniya,Tamil,Female,1162
+2022,Northern,Mullativu,Sinhala,Male,95
+2022,Northern,Mullativu,Sinhala,Female,108
+2022,Northern,Mullativu,Tamil,Male,768
+2022,Northern,Mullativu,Tamil,Female,762
+2022,Northern,Kilinochchi,Sinhala,Male,0
+2022,Northern,Kilinochchi,Sinhala,Female,0
+2022,Northern,Kilinochchi,Tamil,Male,919
+2022,Northern,Kilinochchi,Tamil,Female,921
+2022,Eastern,Batticaloa,Sinhala,Male,24
+2022,Eastern,Batticaloa,Sinhala,Female,16
+2022,Eastern,Batticaloa,Tamil,Male,4907
+2022,Eastern,Batticaloa,Tamil,Female,4790
+2022,Eastern,Ampara,Sinhala,Male,2274
+2022,Eastern,Ampara,Sinhala,Female,2235
+2022,Eastern,Ampara,Tamil,Male,4425
+2022,Eastern,Ampara,Tamil,Female,4084
+2022,Eastern,Trincomalee,Sinhala,Male,884
+2022,Eastern,Trincomalee,Sinhala,Female,921
+2022,Eastern,Trincomalee,Tamil,Male,3114
+2022,Eastern,Trincomalee,Tamil,Female,2939
+2022,North Western,Kurunegala,Sinhala,Male,11425
+2022,North Western,Kurunegala,Sinhala,Female,10869
+2022,North Western,Kurunegala,Tamil,Male,1223
+2022,North Western,Kurunegala,Tamil,Female,1281
+2022,North Western,Puttlam,Sinhala,Male,4458
+2022,North Western,Puttlam,Sinhala,Female,4315
+2022,North Western,Puttlam,Tamil,Male,1930
+2022,North Western,Puttlam,Tamil,Female,1947
+2022,North Central,Anuradapura,Sinhala,Male,7120
+2022,North Central,Anuradapura,Sinhala,Female,6983
+2022,North Central,Anuradapura,Tamil,Male,883
+2022,North Central,Anuradapura,Tamil,Female,845
+2022,North Central,Polonnaruwa,Sinhala,Male,3355
+2022,North Central,Polonnaruwa,Sinhala,Female,3143
+2022,North Central,Polonnaruwa,Tamil,Male,444
+2022,North Central,Polonnaruwa,Tamil,Female,456
+2022,Uva,Badulla,Sinhala,Male,4843
+2022,Uva,Badulla,Sinhala,Female,4924
+2022,Uva,Badulla,Tamil,Male,1728
+2022,Uva,Badulla,Tamil,Female,1745
+2022,Uva,Monaragala,Sinhala,Male,4270
+2022,Uva,Monaragala,Sinhala,Female,4099
+2022,Uva,Monaragala,Tamil,Male,246
+2022,Uva,Monaragala,Tamil,Female,235
+2022,Sabaragamuwa,Ratnapura,Sinhala,Male,7260
+2022,Sabaragamuwa,Ratnapura,Sinhala,Female,7194
+2022,Sabaragamuwa,Ratnapura,Tamil,Male,934
+2022,Sabaragamuwa,Ratnapura,Tamil,Female,881
+2022,Sabaragamuwa,Kegalle,Sinhala,Male,4837
+2022,Sabaragamuwa,Kegalle,Sinhala,Female,4733
+2022,Sabaragamuwa,Kegalle,Tamil,Male,948
+2022,Sabaragamuwa,Kegalle,Tamil,Female,964
+2023,Western,Colombo,Sinhala,Male,25983
+2023,Western,Colombo,Sinhala,Female,25114
+2023,Western,Colombo,Tamil,Male,2950
+2023,Western,Colombo,Tamil,Female,3106
+2023,Western,Colombo,English,Male,0
+2023,Western,Colombo,English,Female,0
+2023,Western,Gampaha,Sinhala,Male,8991
+2023,Western,Gampaha,Sinhala,Female,8548
+2023,Western,Gampaha,Tamil,Male,1125
+2023,Western,Gampaha,Tamil,Female,1153
+2023,Western,Gampaha,English,Male,0
+2023,Western,Gampaha,English,Female,0
+2023,Western,Kalutara,Sinhala,Male,10305
+2023,Western,Kalutara,Sinhala,Female,10341
+2023,Western,Kalutara,Tamil,Male,716
+2023,Western,Kalutara,Tamil,Female,724
+2023,Western,Kalutara,English,Male,0
+2023,Western,Kalutara,English,Female,0
+2023,Central,Kandy,Sinhala,Male,12106
+2023,Central,Kandy,Sinhala,Female,11846
+2023,Central,Kandy,Tamil,Male,6633
+2023,Central,Kandy,Tamil,Female,6368
+2023,Central,Kandy,English,Male,0
+2023,Central,Kandy,English,Female,0
+2023,Central,Matale,Sinhala,Male,6893
+2023,Central,Matale,Sinhala,Female,6738
+2023,Central,Matale,Tamil,Male,2574
+2023,Central,Matale,Tamil,Female,2479
+2023,Central,Matale,English,Male,0
+2023,Central,Matale,English,Female,0
+2023,Central,Nuwaraeliya,Sinhala,Male,3202
+2023,Central,Nuwaraeliya,Sinhala,Female,3066
+2023,Central,Nuwaraeliya,Tamil,Male,758
+2023,Central,Nuwaraeliya,Tamil,Female,692
+2023,Central,Nuwaraeliya,English,Male,0
+2023,Central,Nuwaraeliya,English,Female,0
+2023,Southern,Galle,Sinhala,Male,18258
+2023,Southern,Galle,Sinhala,Female,17342
+2023,Southern,Galle,Tamil,Male,610
+2023,Southern,Galle,Tamil,Female,579
+2023,Southern,Galle,English,Male,74
+2023,Southern,Galle,English,Female,55
+2023,Southern,Matara,Sinhala,Male,7357
+2023,Southern,Matara,Sinhala,Female,7187
+2023,Southern,Matara,Tamil,Male,165
+2023,Southern,Matara,Tamil,Female,177
+2023,Southern,Matara,English,Male,74
+2023,Southern,Matara,English,Female,55
+2023,Southern,Hambantota,Sinhala,Male,5572
+2023,Southern,Hambantota,Sinhala,Female,5147
+2023,Southern,Hambantota,Tamil,Male,348
+2023,Southern,Hambantota,Tamil,Female,271
+2023,Southern,Hambantota,English,Male,0
+2023,Southern,Hambantota,English,Female,0
+2023,Northern,Jaffna,Sinhala,Male,252
+2023,Northern,Jaffna,Sinhala,Female,268
+2023,Northern,Jaffna,Tamil,Male,7627
+2023,Northern,Jaffna,Tamil,Female,7397
+2023,Northern,Jaffna,English,Male,0
+2023,Northern,Jaffna,English,Female,0
+2023,Northern,Mannar,Sinhala,Male,0
+2023,Northern,Mannar,Sinhala,Female,0
+2023,Northern,Mannar,Tamil,Male,3556
+2023,Northern,Mannar,Tamil,Female,3486
+2023,Northern,Mannar,English,Male,0
+2023,Northern,Mannar,English,Female,0
+2023,Northern,Vavuniya,Sinhala,Male,0
+2023,Northern,Vavuniya,Sinhala,Female,1
+2023,Northern,Vavuniya,Tamil,Male,1022
+2023,Northern,Vavuniya,Tamil,Female,1046
+2023,Northern,Vavuniya,English,Male,0
+2023,Northern,Vavuniya,English,Female,0
+2023,Northern,Mullativu,Sinhala,Male,149
+2023,Northern,Mullativu,Sinhala,Female,167
+2023,Northern,Mullativu,Tamil,Male,1249
+2023,Northern,Mullativu,Tamil,Female,1154
+2023,Northern,Mullativu,English,Male,0
+2023,Northern,Mullativu,English,Female,0
+2023,Northern,Kilinochchi,Sinhala,Male,103
+2023,Northern,Kilinochchi,Sinhala,Female,100
+2023,Northern,Kilinochchi,Tamil,Male,813
+2023,Northern,Kilinochchi,Tamil,Female,734
+2023,Northern,Kilinochchi,English,Male,0
+2023,Northern,Kilinochchi,English,Female,0
+2023,Eastern,Batticaloa,Sinhala,Male,3172
+2023,Eastern,Batticaloa,Sinhala,Female,3064
+2023,Eastern,Batticaloa,Tamil,Male,13399
+2023,Eastern,Batticaloa,Tamil,Female,12752
+2023,Eastern,Batticaloa,English,Male,0
+2023,Eastern,Batticaloa,English,Female,0
+2023,Eastern,Ampara,Sinhala,Male,22
+2023,Eastern,Ampara,Sinhala,Female,17
+2023,Eastern,Ampara,Tamil,Male,5447
+2023,Eastern,Ampara,Tamil,Female,5059
+2023,Eastern,Ampara,English,Male,0
+2023,Eastern,Ampara,English,Female,0
+2023,Eastern,Trincomalee,Sinhala,Male,2258
+2023,Eastern,Trincomalee,Sinhala,Female,2210
+2023,Eastern,Trincomalee,Tamil,Male,4536
+2023,Eastern,Trincomalee,Tamil,Female,4396
+2023,Eastern,Trincomalee,English,Male,0
+2023,Eastern,Trincomalee,English,Female,0
+2023,North Western,Kurunegala,Sinhala,Male,15569
+2023,North Western,Kurunegala,Sinhala,Female,14974
+2023,North Western,Kurunegala,Tamil,Male,3271
+2023,North Western,Kurunegala,Tamil,Female,3263
+2023,North Western,Kurunegala,English,Male,0
+2023,North Western,Kurunegala,English,Female,0
+2023,North Western,Puttlam,Sinhala,Male,11160
+2023,North Western,Puttlam,Sinhala,Female,10742
+2023,North Western,Puttlam,Tamil,Male,1270
+2023,North Western,Puttlam,Tamil,Female,1252
+2023,North Western,Puttlam,English,Male,0
+2023,North Western,Puttlam,English,Female,0
+2023,North Central,Anuradapura,Sinhala,Male,10266
+2023,North Central,Anuradapura,Sinhala,Female,9666
+2023,North Central,Anuradapura,Tamil,Male,1331
+2023,North Central,Anuradapura,Tamil,Female,1308
+2023,North Central,Anuradapura,English,Male,0
+2023,North Central,Anuradapura,English,Female,0
+2023,North Central,Polonnaruwa,Sinhala,Male,6999
+2023,North Central,Polonnaruwa,Sinhala,Female,6663
+2023,North Central,Polonnaruwa,Tamil,Male,860
+2023,North Central,Polonnaruwa,Tamil,Female,838
+2023,North Central,Polonnaruwa,English,Male,0
+2023,North Central,Polonnaruwa,English,Female,0
+2023,Uva,Badulla,Sinhala,Male,9084
+2023,Uva,Badulla,Sinhala,Female,8931
+2023,Uva,Badulla,Tamil,Male,1983
+2023,Uva,Badulla,Tamil,Female,1989
+2023,Uva,Badulla,English,Male,0
+2023,Uva,Badulla,English,Female,0
+2023,Uva,Monaragala,Sinhala,Male,4779
+2023,Uva,Monaragala,Sinhala,Female,4742
+2023,Uva,Monaragala,Tamil,Male,1742
+2023,Uva,Monaragala,Tamil,Female,1745
+2023,Uva,Monaragala,English,Male,0
+2023,Uva,Monaragala,English,Female,0
+2023,Sabaragamuwa,Ratnapura,Sinhala,Male,11877
+2023,Sabaragamuwa,Ratnapura,Sinhala,Female,11379
+2023,Sabaragamuwa,Ratnapura,Tamil,Male,1869
+2023,Sabaragamuwa,Ratnapura,Tamil,Female,1924
+2023,Sabaragamuwa,Ratnapura,English,Male,0
+2023,Sabaragamuwa,Ratnapura,English,Female,0
+2023,Sabaragamuwa,Kegalle,Sinhala,Male,7236
+2023,Sabaragamuwa,Kegalle,Sinhala,Female,7017
+2023,Sabaragamuwa,Kegalle,Tamil,Male,893
+2023,Sabaragamuwa,Kegalle,Tamil,Female,914
+2023,Sabaragamuwa,Kegalle,English,Male,0
+2023,Sabaragamuwa,Kegalle,English,Female,0
+2024,Western,Colombo,Sinhala,Male,8565
+2024,Western,Colombo,Sinhala,Female,8269
+2024,Western,Colombo,Tamil,Male,1132
+2024,Western,Colombo,Tamil,Female,1178
+2024,Western,Colombo,English,Male,0
+2024,Western,Colombo,English,Female,0
+2024,Western,Gampaha,Sinhala,Male,9888
+2024,Western,Gampaha,Sinhala,Female,9785
+2024,Western,Gampaha,Tamil,Male,725
+2024,Western,Gampaha,Tamil,Female,730
+2024,Western,Gampaha,English,Male,0
+2024,Western,Gampaha,English,Female,0
+2024,Western,Kalutara,Sinhala,Male,6237
+2024,Western,Kalutara,Sinhala,Female,5985
+2024,Western,Kalutara,Tamil,Male,1129
+2024,Western,Kalutara,Tamil,Female,1213
+2024,Western,Kalutara,English,Male,0
+2024,Western,Kalutara,English,Female,0
+2024,Central,Kandy,Sinhala,Male,6453
+2024,Central,Kandy,Sinhala,Female,6540
+2024,Central,Kandy,Tamil,Male,2463
+2024,Central,Kandy,Tamil,Female,2348
+2024,Central,Kandy,English,Male,0
+2024,Central,Kandy,English,Female,0
+2024,Central,Matale,Sinhala,Male,3006
+2024,Central,Matale,Sinhala,Female,2990
+2024,Central,Matale,Tamil,Male,714
+2024,Central,Matale,Tamil,Female,702
+2024,Central,Matale,English,Male,0
+2024,Central,Matale,English,Female,0
+2024,Central,Nuwaraeliya,Sinhala,Male,1989
+2024,Central,Nuwaraeliya,Sinhala,Female,1985
+2024,Central,Nuwaraeliya,Tamil,Male,3162
+2024,Central,Nuwaraeliya,Tamil,Female,3136
+2024,Central,Nuwaraeliya,English,Male,0
+2024,Central,Nuwaraeliya,English,Female,0
+2024,Southern,Galle,Sinhala,Male,7293
+2024,Southern,Galle,Sinhala,Female,6991
+2024,Southern,Galle,Tamil,Male,169
+2024,Southern,Galle,Tamil,Female,170
+2024,Southern,Galle,English,Male,92
+2024,Southern,Galle,English,Female,68
+2024,Southern,Matara,Sinhala,Male,5447
+2024,Southern,Matara,Sinhala,Female,5088
+2024,Southern,Matara,Tamil,Male,303
+2024,Southern,Matara,Tamil,Female,261
+2024,Southern,Matara,English,Male,0
+2024,Southern,Matara,English,Female,0
+2024,Southern,Hambantota,Sinhala,Male,5151
+2024,Southern,Hambantota,Sinhala,Female,4993
+2024,Southern,Hambantota,Tamil,Male,93
+2024,Southern,Hambantota,Tamil,Female,113
+2024,Southern,Hambantota,English,Male,0
+2024,Southern,Hambantota,English,Female,0
+2024,Northern,Jaffna,Sinhala,Male,0
+2024,Northern,Jaffna,Sinhala,Female,0
+2024,Northern,Jaffna,Tamil,Male,3798
+2024,Northern,Jaffna,Tamil,Female,3678
+2024,Northern,Jaffna,English,Male,0
+2024,Northern,Jaffna,English,Female,0
+2024,Northern,Mannar,Sinhala,Male,4
+2024,Northern,Mannar,Sinhala,Female,2
+2024,Northern,Mannar,Tamil,Male,1064
+2024,Northern,Mannar,Tamil,Female,986
+2024,Northern,Mannar,English,Male,0
+2024,Northern,Mannar,English,Female,0
+2024,Northern,Vavuniya,Sinhala,Male,160
+2024,Northern,Vavuniya,Sinhala,Female,135
+2024,Northern,Vavuniya,Tamil,Male,1215
+2024,Northern,Vavuniya,Tamil,Female,1156
+2024,Northern,Vavuniya,English,Male,0
+2024,Northern,Vavuniya,English,Female,0
+2024,Northern,Mullativu,Sinhala,Male,98
+2024,Northern,Mullativu,Sinhala,Female,105
+2024,Northern,Mullativu,Tamil,Male,863
+2024,Northern,Mullativu,Tamil,Female,799
+2024,Northern,Mullativu,English,Male,0
+2024,Northern,Mullativu,English,Female,0
+2024,Northern,Kilinochchi,Sinhala,Male,0
+2024,Northern,Kilinochchi,Sinhala,Female,0
+2024,Northern,Kilinochchi,Tamil,Male,918
+2024,Northern,Kilinochchi,Tamil,Female,965
+2024,Northern,Kilinochchi,English,Male,0
+2024,Northern,Kilinochchi,English,Female,0
+2024,Eastern,Batticaloa,Sinhala,Male,1
+2024,Eastern,Batticaloa,Sinhala,Female,2
+2024,Eastern,Batticaloa,Tamil,Male,5336
+2024,Eastern,Batticaloa,Tamil,Female,5326
+2024,Eastern,Batticaloa,English,Male,0
+2024,Eastern,Batticaloa,English,Female,0
+2024,Eastern,Ampara,Sinhala,Male,2401
+2024,Eastern,Ampara,Sinhala,Female,2214
+2024,Eastern,Ampara,Tamil,Male,4859
+2024,Eastern,Ampara,Tamil,Female,4636
+2024,Eastern,Ampara,English,Male,0
+2024,Eastern,Ampara,English,Female,0
+2024,Eastern,Trincomalee,Sinhala,Male,950
+2024,Eastern,Trincomalee,Sinhala,Female,895
+2024,Eastern,Trincomalee,Tamil,Male,3505
+2024,Eastern,Trincomalee,Tamil,Female,3291
+2024,Eastern,Trincomalee,English,Male,0
+2024,Eastern,Trincomalee,English,Female,0
+2024,North Western,Kurunegala,Sinhala,Male,10985
+2024,North Western,Kurunegala,Sinhala,Female,10453
+2024,North Western,Kurunegala,Tamil,Male,1161
+2024,North Western,Kurunegala,Tamil,Female,1173
+2024,North Western,Kurunegala,English,Male,0
+2024,North Western,Kurunegala,English,Female,0
+2024,North Western,Puttlam,Sinhala,Male,4231
+2024,North Western,Puttlam,Sinhala,Female,4101
+2024,North Western,Puttlam,Tamil,Male,1924
+2024,North Western,Puttlam,Tamil,Female,1911
+2024,North Western,Puttlam,English,Male,0
+2024,North Western,Puttlam,English,Female,0
+2024,North Central,Anuradapura,Sinhala,Male,6674
+2024,North Central,Anuradapura,Sinhala,Female,6476
+2024,North Central,Anuradapura,Tamil,Male,817
+2024,North Central,Anuradapura,Tamil,Female,855
+2024,North Central,Anuradapura,English,Male,0
+2024,North Central,Anuradapura,English,Female,0
+2024,North Central,Polonnaruwa,Sinhala,Male,3277
+2024,North Central,Polonnaruwa,Sinhala,Female,3068
+2024,North Central,Polonnaruwa,Tamil,Male,500
+2024,North Central,Polonnaruwa,Tamil,Female,491
+2024,North Central,Polonnaruwa,English,Male,0
+2024,North Central,Polonnaruwa,English,Female,0
+2024,Uva,Badulla,Sinhala,Male,4708
+2024,Uva,Badulla,Sinhala,Female,4625
+2024,Uva,Badulla,Tamil,Male,1682
+2024,Uva,Badulla,Tamil,Female,1586
+2024,Uva,Badulla,English,Male,0
+2024,Uva,Badulla,English,Female,0
+2024,Uva,Monaragala,Sinhala,Male,4365
+2024,Uva,Monaragala,Sinhala,Female,4146
+2024,Uva,Monaragala,Tamil,Male,225
+2024,Uva,Monaragala,Tamil,Female,225
+2024,Uva,Monaragala,English,Male,0
+2024,Uva,Monaragala,English,Female,0
+2024,Sabaragamuwa,Ratnapura,Sinhala,Male,7247
+2024,Sabaragamuwa,Ratnapura,Sinhala,Female,7028
+2024,Sabaragamuwa,Ratnapura,Tamil,Male,908
+2024,Sabaragamuwa,Ratnapura,Tamil,Female,884
+2024,Sabaragamuwa,Ratnapura,English,Male,0
+2024,Sabaragamuwa,Ratnapura,English,Female,0
+2024,Sabaragamuwa,Kegalle,Sinhala,Male,4401
+2024,Sabaragamuwa,Kegalle,Sinhala,Female,4419
+2024,Sabaragamuwa,Kegalle,Tamil,Male,927
+2024,Sabaragamuwa,Kegalle,Tamil,Female,902
+2024,Sabaragamuwa,Kegalle,English,Male,0
+2024,Sabaragamuwa,Kegalle,English,Female,0
