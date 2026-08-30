@@ -2,13 +2,13 @@
 
 An AI application that predicts next year's Grade 1 student admissions in Sri Lanka using historical admission data.
 
-1. Problem Statement
+**1. Problem Statement**
 
 Planning Grade 1 admissions is important for allocating classrooms, teachers, learning materials, and other school resources.
 
 This project uses historical admission data to predict future Grade 1 admissions by province, district, medium, and gender.
 
-2. Use Case
+**2. Use Case**
 
 The system can be used by:
 
@@ -19,12 +19,12 @@ Researchers
 
 Users can select a province, district, medium, and gender to get the predicted number of Grade 1 admissions for the next year.
 
-3. Solution Overview
+**3. Solution Overview**
 
 The application uses historical admission data from 2022–2024 and a machine learning regression model to predict future admissions.
 
 
-4. Dataset
+**4. Dataset**
 
 Dataset: Grade One New Admissions by Gender & Medium of Study
 
@@ -48,7 +48,7 @@ Years used:
 
 2022, 2023, 2024
 
-5. AI/ML Approach
+**5. AI/ML Approach**
 
 This is a regression problem where the target variable is Admissions.
 
@@ -68,7 +68,8 @@ Pandas
 NumPy
 Scikit-learn
 Joblib
-6. Application Architecture
+
+**6. Application Architecture**
  Admission Data
       ↓
 Data Processing
@@ -80,7 +81,7 @@ Admission Prediction
 Streamlit Web App
 
 
-7. Technology Stack
+**7. Technology Stack**
 Technology	Purpose
 Python	Application & ML
 Pandas	Data processing
@@ -89,7 +90,7 @@ Streamlit	Web application
 GitHub	Source code
 Streamlit Cloud	Deployment
 
-8. Local Setup
+**8. Local Setup**
 
 Clone the repository:
 
@@ -105,7 +106,7 @@ streamlit run app.py
 The application runs on:
 http://localhost:8501
 
-9. Deployment
+**9. Deployment**
 
 The web application is deployed using Streamlit Cloud.
 
@@ -116,7 +117,7 @@ Connect the repository to Streamlit Cloud.
 Select app.py.
 Deploy the application.
 
-10. Web Application Usage
+**10. Web Application Usage**
 Select a Province.
 Select a District.
 Select the Medium.
