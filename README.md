@@ -82,13 +82,13 @@ Streamlit Web App
 
 
 **7. Technology Stack**
-Technology	Purpose
-Python	Application & ML
-Pandas	Data processing
-Scikit-learn	ML model
-Streamlit	Web application
-GitHub	Source code
-Streamlit Cloud	Deployment
+
+Python -	Application & ML,
+Pandas	- Data processing,
+Scikit-learn -	ML model,
+Streamlit -	Web application,
+GitHub	- Source code,
+Streamlit - Cloud	Deployment
 
 **8. Local Setup**
 
