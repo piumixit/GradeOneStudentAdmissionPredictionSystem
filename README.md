@@ -116,10 +116,6 @@ Connect the repository to Streamlit Cloud.
 Select app.py.
 Deploy the application.
 
-Live application:
-
-(https://gradeonestudentadmissionpredictionsystem.streamlit.app/)
-
 10. Web Application Usage
 Select a Province.
 Select a District.
@@ -128,3 +124,5 @@ Select the Gender.
 Select the prediction year.
 Click Predict.
 View the estimated Grade 1 admissions.
+
+Live application: https://gradeonestudentadmissionpredictionsystem.streamlit.app/
