@@ -524,6 +524,6 @@ st.markdown("---")
 
 st.caption(
     "Grade 1 Admission Prediction System | "
-    "AI Application Development Assignment"
+    " Cloud Computing for Artificial Intelligence"
 )
 
