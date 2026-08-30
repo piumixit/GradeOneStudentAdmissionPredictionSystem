@@ -71,13 +71,13 @@ Joblib
 
 **6. Application Architecture**
  Admission Data
-      ↓
+      ->
 Data Processing
-      ↓
+      ->
 Machine Learning Model
-      ↓
+      ->
 Admission Prediction
-      ↓
+      ->
 Streamlit Web App
 
 
